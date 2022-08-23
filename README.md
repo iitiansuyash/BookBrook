@@ -5,15 +5,8 @@ This website is built in Web 3.0 using [Next.js](https://nextjs.org/) and [MetaM
 
 <br>
 
-<img src="https://media.giphy.com/media/jbKf1K7MhK5DErbeXY/giphy.gif" class="center" width="450" height="450" />
+<img src="https://media.giphy.com/media/jbKf1K7MhK5DErbeXY/giphy.gif" class="center" width="450" height="450" style=" display: block; margin-left: auto; margin-right: auto;" />
 
-<style>
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-</style>
 
 <hr>
 
